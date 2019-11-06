@@ -1,0 +1,219 @@
+id,stage,age_at_diagnosis_days,race,ethnicity,vital_status,overall_survival_days
+normal_1,NA,20863,white,not hispanic or latino,Alive,NA
+tumor_1,Stage_II,20863,white,not hispanic or latino,Alive,NA
+normal_2,NA,29104,white,not hispanic or latino,Alive,NA
+tumor_2,Stage_II,29104,white,not hispanic or latino,Alive,NA
+tumor_3,Stage_II,13836,white,not hispanic or latino,Alive,NA
+normal_3,NA,13836,white,not hispanic or latino,Alive,NA
+tumor_4,Stage_II,20570,white,not hispanic or latino,Alive,NA
+normal_4,NA,20570,white,not hispanic or latino,Alive,NA
+tumor_5,Stage_I,23294,white,not hispanic or latino,Alive,NA
+normal_5,NA,23294,white,not hispanic or latino,Alive,NA
+tumor_6,Stage_II,22690,white,not hispanic or latino,Dead,614
+normal_6,NA,22690,white,not hispanic or latino,Dead,614
+normal_7,NA,16363,white,not hispanic or latino,Alive,NA
+tumor_7,Stage_III,16363,white,not hispanic or latino,Alive,NA
+tumor_8,Stage_II,28969,white,not hispanic or latino,Alive,NA
+normal_8,NA,28969,white,not hispanic or latino,Alive,NA
+tumor_9,Stage_II,32872,white,not hispanic or latino,Dead,0
+normal_9,NA,32872,white,not hispanic or latino,Dead,0
+normal_10,NA,16688,white,not hispanic or latino,Alive,NA
+tumor_10,Stage_II,16688,white,not hispanic or latino,Alive,NA
+normal_11,NA,22703,white,not reported,Alive,NA
+tumor_11,Stage_II,22703,white,not reported,Alive,NA
+tumor_12,Stage_III,17465,white,not hispanic or latino,Alive,NA
+normal_12,NA,17465,white,not hispanic or latino,Alive,NA
+normal_13,NA,19479,white,not reported,Alive,NA
+tumor_13,Stage_II,19479,white,not reported,Alive,NA
+normal_14,NA,14920,white,not hispanic or latino,Alive,NA
+tumor_14,Stage_III,14920,white,not hispanic or latino,Alive,NA
+normal_15,NA,15593,white,not hispanic or latino,Alive,NA
+tumor_15,Stage_II,15593,white,not hispanic or latino,Alive,NA
+tumor_16,Stage_I,23380,white,not reported,Alive,NA
+normal_16,NA,23380,white,not reported,Alive,NA
+tumor_17,Stage_III,18839,white,not reported,Alive,NA
+normal_17,NA,18839,white,not reported,Alive,NA
+normal_18,NA,21949,white,not reported,Alive,NA
+tumor_18,Stage_III,21949,white,not reported,Alive,NA
+tumor_19,Stage_II,15027,white,not reported,Alive,NA
+normal_19,NA,15027,white,not reported,Alive,NA
+normal_20,NA,20049,white,not reported,Alive,NA
+tumor_20,Stage_II,20049,white,not reported,Alive,NA
+normal_21,NA,14494,white,not hispanic or latino,Alive,NA
+tumor_21,Stage_I,14494,white,not hispanic or latino,Alive,NA
+tumor_22,Stage_III,20374,white,not hispanic or latino,Alive,NA
+normal_22,NA,20374,white,not hispanic or latino,Alive,NA
+tumor_23,Stage_II,20625,white,not hispanic or latino,Alive,NA
+normal_23,NA,20625,white,not hispanic or latino,Alive,NA
+normal_24,NA,28699,white,not reported,Alive,NA
+tumor_24,Stage_II,28699,white,not reported,Alive,NA
+tumor_25,Stage_I,25974,black or african american,not hispanic or latino,Alive,NA
+normal_25,NA,25974,black or african american,not hispanic or latino,Alive,NA
+normal_26,NA,21856,white,not hispanic or latino,Alive,NA
+tumor_26,Stage_III,21856,white,not hispanic or latino,Alive,NA
+normal_27,NA,23006,white,not reported,Alive,NA
+tumor_27,Stage_II,23006,white,not reported,Alive,NA
+normal_28,NA,17221,white,not reported,Alive,NA
+tumor_28,Stage_I,17221,white,not reported,Alive,NA
+tumor_29,NA,21386,white,not reported,Alive,NA
+normal_29,NA,21386,white,not reported,Alive,NA
+tumor_30,Stage_II,11204,black or african american,not hispanic or latino,Alive,NA
+normal_30,NA,11204,black or african american,not hispanic or latino,Alive,NA
+normal_31,NA,23366,white,not reported,Alive,NA
+tumor_31,Stage_II,23366,white,not reported,Alive,NA
+normal_32,NA,18237,white,not reported,Alive,NA
+tumor_32,Stage_II,18237,white,not reported,Alive,NA
+tumor_33,Stage_II,23628,white,not hispanic or latino,Alive,NA
+normal_33,NA,23628,white,not hispanic or latino,Alive,NA
+tumor_34,Stage_I,28529,white,not hispanic or latino,Alive,NA
+normal_34,NA,28529,white,not hispanic or latino,Alive,NA
+normal_35,NA,22199,white,not reported,Alive,NA
+tumor_35,Stage_II,22199,white,not reported,Alive,NA
+normal_36,NA,15533,white,not reported,Alive,NA
+tumor_36,Stage_II,15533,white,not reported,Alive,NA
+tumor_37,Stage_II,15078,white,not reported,Alive,NA
+normal_37,NA,15078,white,not reported,Alive,NA
+tumor_38,Stage_III,19781,white,not reported,Alive,NA
+normal_38,NA,19781,white,not reported,Alive,NA
+tumor_39,Stage_II,15980,white,not reported,Alive,NA
+normal_39,NA,15980,white,not reported,Alive,NA
+tumor_40,Stage_III,14175,white,not reported,Alive,NA
+normal_40,NA,14175,white,not reported,Alive,NA
+normal_41,NA,19192,white,not reported,Alive,NA
+tumor_41,Stage_II,19192,white,not reported,Alive,NA
+tumor_42,Stage_I,16719,white,not hispanic or latino,Alive,NA
+normal_42,NA,16719,white,not hispanic or latino,Alive,NA
+normal_43,NA,23972,white,not reported,Alive,NA
+tumor_43,Stage_III,23972,white,not reported,Alive,NA
+tumor_44,Stage_II,25289,white,not reported,Alive,NA
+normal_44,NA,25289,white,not reported,Alive,NA
+tumor_45,Stage_I,11379,white,not hispanic or latino,Alive,NA
+normal_45,NA,11379,white,not hispanic or latino,Alive,NA
+normal_46,NA,29751,white,not reported,Alive,NA
+tumor_46,Stage_II,29751,white,not reported,Alive,NA
+normal_47,NA,20678,white,not hispanic or latino,Dead,612
+tumor_47,Stage_IV,20678,white,not hispanic or latino,Dead,612
+tumor_48,Stage_I,16824,white,not hispanic or latino,Dead,2763
+normal_48,NA,16824,white,not hispanic or latino,Dead,2763
+normal_49,NA,18519,white,not hispanic or latino,Dead,811
+tumor_49,Stage_III,18519,white,not hispanic or latino,Dead,811
+tumor_50,Stage_III,14532,white,not hispanic or latino,Dead,2207
+normal_50,NA,14532,white,not hispanic or latino,Dead,2207
+tumor_51,Stage_II,32404,white,not hispanic or latino,Dead,468
+normal_51,NA,32404,white,not hispanic or latino,Dead,468
+normal_52,NA,22222,white,not reported,Dead,921
+tumor_52,Stage_I,22222,white,not reported,Dead,921
+normal_53,NA,20675,white,not hispanic or latino,Dead,1692
+tumor_53,Stage_II,20675,white,not hispanic or latino,Dead,1692
+tumor_54,Stage_II,18524,white,not hispanic or latino,Dead,1142
+normal_54,NA,18524,white,not hispanic or latino,Dead,1142
+normal_55,NA,28974,white,not hispanic or latino,Dead,2009
+tumor_55,Stage_I,28974,white,not hispanic or latino,Dead,2009
+normal_56,NA,26426,white,not hispanic or latino,Dead,1563
+tumor_56,Stage_III,26426,white,not hispanic or latino,Dead,1563
+normal_57,NA,17682,white,not hispanic or latino,Dead,1556
+tumor_57,Stage_II,17682,white,not hispanic or latino,Dead,1556
+normal_58,NA,28724,white,not hispanic or latino,Dead,2127
+tumor_58,Stage_II,28724,white,not hispanic or latino,Dead,2127
+tumor_59,Stage_II,25136,white,not hispanic or latino,Dead,2798
+normal_59,NA,25136,white,not hispanic or latino,Dead,2798
+tumor_60,Stage_I,20425,white,not hispanic or latino,Dead,2520
+normal_60,NA,20425,white,not hispanic or latino,Dead,2520
+tumor_61,Stage_I,30339,white,not hispanic or latino,Dead,1286
+normal_61,NA,30339,white,not hispanic or latino,Dead,1286
+tumor_62,Stage_III,16504,white,not hispanic or latino,Dead,365
+normal_62,NA,16504,white,not hispanic or latino,Dead,365
+tumor_63,Stage_II,14090,white,not hispanic or latino,Dead,1694
+normal_63,NA,14090,white,not hispanic or latino,Dead,1694
+tumor_64,Stage_II,29335,white,not hispanic or latino,Dead,785
+normal_64,NA,29335,white,not hispanic or latino,Dead,785
+normal_65,NA,19701,white,not hispanic or latino,Dead,959
+tumor_65,Stage_III,19701,white,not hispanic or latino,Dead,959
+normal_66,NA,18691,white,not hispanic or latino,Dead,2965
+tumor_66,"NA",18691,white,not hispanic or latino,Dead,2965
+tumor_67,Stage_III,32871,white,not hispanic or latino,Dead,1
+normal_67,NA,32871,white,not hispanic or latino,Dead,1
+normal_68,NA,21933,white,not hispanic or latino,Dead,3669
+tumor_68,Stage_II,21933,white,not hispanic or latino,Dead,3669
+normal_69,NA,28706,black or african american,not hispanic or latino,Dead,3472
+tumor_69,Stage_II,28706,black or african american,not hispanic or latino,Dead,3472
+tumor_70,Stage_I,24940,white,not hispanic or latino,Dead,1009
+normal_70,NA,24940,white,not hispanic or latino,Dead,1009
+tumor_71,Stage_II,11650,white,not hispanic or latino,Dead,2273
+normal_71,NA,11650,white,not hispanic or latino,Dead,2273
+tumor_72,Stage_I,32295,white,not hispanic or latino,Dead,577
+normal_72,NA,32295,white,not hispanic or latino,Dead,577
+normal_73,NA,17172,white,not hispanic or latino,Dead,1034
+tumor_73,Stage_IV,17172,white,not hispanic or latino,Dead,1034
+tumor_74,Stage_III,24262,white,not hispanic or latino,Dead,1927
+normal_74,NA,24262,white,not hispanic or latino,Dead,1927
+normal_75,NA,16289,white,not hispanic or latino,Dead,1388
+tumor_75,Stage_III,16289,white,not hispanic or latino,Dead,1388
+normal_76,NA,12525,white,not hispanic or latino,Dead,2192
+tumor_76,Stage_II,12525,white,not hispanic or latino,Dead,2192
+normal_77,NA,26684,white,not hispanic or latino,Dead,1642
+tumor_77,Stage_III,26684,white,not hispanic or latino,Dead,1642
+normal_78,NA,16174,white,not hispanic or latino,Dead,1688
+tumor_78,Stage_I,16174,white,not hispanic or latino,Dead,1688
+normal_79,NA,28609,white,not hispanic or latino,Dead,1174
+tumor_79,Stage_II,28609,white,not hispanic or latino,Dead,1174
+normal_80,NA,29529,white,not hispanic or latino,Dead,2534
+tumor_80,Stage_II,29529,white,not hispanic or latino,Dead,2534
+normal_81,NA,17715,white,not hispanic or latino,Dead,1759
+tumor_81,Stage_II,17715,white,not hispanic or latino,Dead,1759
+tumor_82,Stage_I,28403,black or african american,not hispanic or latino,Dead,3959
+normal_82,NA,28403,black or african american,not hispanic or latino,Dead,3959
+tumor_83,Stage_II,18875,white,not hispanic or latino,Alive,NA
+normal_83,NA,18875,white,not hispanic or latino,Alive,NA
+tumor_84,Stage_II,15903,white,not hispanic or latino,Alive,NA
+normal_84,NA,15903,white,not hispanic or latino,Alive,NA
+normal_85,NA,16163,white,not hispanic or latino,Alive,NA
+tumor_85,Stage_II,16163,white,not hispanic or latino,Alive,NA
+tumor_86,Stage_II,21514,white,not hispanic or latino,Alive,NA
+normal_86,NA,21514,white,not hispanic or latino,Alive,NA
+normal_87,NA,24266,white,not hispanic or latino,Dead,336
+tumor_87,Stage_II,24266,white,not hispanic or latino,Dead,336
+tumor_88,Stage_I,23168,not reported,not reported,Alive,NA
+normal_88,NA,23168,not reported,not reported,Alive,NA
+tumor_89,Stage_II,16757,white,not hispanic or latino,Alive,NA
+normal_89,NA,16757,white,not hispanic or latino,Alive,NA
+normal_90,NA,14854,white,not hispanic or latino,Alive,NA
+tumor_90,Stage_III,14854,white,not hispanic or latino,Alive,NA
+tumor_91,Stage_II,15283,black or african american,not hispanic or latino,Alive,NA
+normal_91,NA,15283,black or african american,not hispanic or latino,Alive,NA
+normal_92,NA,21628,white,not hispanic or latino,Alive,NA
+tumor_92,Stage_I,21628,white,not hispanic or latino,Alive,NA
+tumor_93,Stage_I,16887,white,not reported,Alive,NA
+normal_93,NA,16887,white,not reported,Alive,NA
+normal_94,NA,15055,white,not hispanic or latino,Alive,NA
+tumor_94,Stage_III,15055,white,not hispanic or latino,Alive,NA
+tumor_95,Stage_II,16736,white,not hispanic or latino,Alive,NA
+normal_95,NA,16736,white,not hispanic or latino,Alive,NA
+tumor_96,Stage_II,19327,white,not hispanic or latino,Dead,678
+normal_96,NA,19327,white,not hispanic or latino,Dead,678
+normal_97,NA,21228,white,not hispanic or latino,Alive,NA
+tumor_97,Stage_II,21228,white,not hispanic or latino,Alive,NA
+tumor_98,Stage_II,21397,white,not hispanic or latino,Alive,NA
+normal_98,NA,21397,white,not hispanic or latino,Alive,NA
+tumor_99,Stage_II,27400,white,not hispanic or latino,Alive,NA
+normal_99,NA,27400,white,not hispanic or latino,Alive,NA
+normal_100,NA,21981,white,not hispanic or latino,Dead,1072
+tumor_100,Stage_II,21981,white,not hispanic or latino,Dead,1072
+tumor_101,Stage_II,22896,white,not hispanic or latino,Dead,786
+normal_101,NA,22896,white,not hispanic or latino,Dead,786
+tumor_102,Stage_II,23397,white,not hispanic or latino,Alive,NA
+normal_102,NA,23397,white,not hispanic or latino,Alive,NA
+normal_103,NA,14755,white,not hispanic or latino,Dead,976
+tumor_103,Stage_II,14755,white,not hispanic or latino,Dead,976
+normal_104,NA,20795,white,not hispanic or latino,Alive,NA
+tumor_104,Stage_III,20795,white,not hispanic or latino,Alive,NA
+tumor_105,Stage_II,24719,white,not hispanic or latino,Alive,NA
+normal_105,NA,24719,white,not hispanic or latino,Alive,NA
+tumor_106,Stage_III,25119,white,not hispanic or latino,Alive,NA
+normal_106,NA,25119,white,not hispanic or latino,Alive,NA
+normal_107,NA,23224,white,not hispanic or latino,Alive,NA
+tumor_107,Stage_II,23224,white,not hispanic or latino,Alive,NA
+normal_108,NA,15942,white,not hispanic or latino,Alive,NA
+tumor_108,Stage_III,15942,white,not hispanic or latino,Alive,NA
+tumor_109,Stage_III,23103,white,not hispanic or latino,Alive,NA
+normal_109,NA,23103,white,not hispanic or latino,Alive,NA
